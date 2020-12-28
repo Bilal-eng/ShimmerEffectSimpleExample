@@ -1,7 +1,8 @@
-package com.arafasapps.myapplication
+package com.arafasapps.myapplication.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.arafasapps.myapplication.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
